@@ -2,7 +2,7 @@
 <br/>
 
 <a href="https://magewade.notion.site/My-DS-ML-Roadmap-c92bbbdf674c40b990b1e94e69467a6d?pvs=74">
-    <img src="https://img.shields.io/badge/my%20roadmap-%23686461?style=for-the-badge&logo=notion&logoColor=white&logoSize=amd">
+    <img src="https://img.shields.io/badge/%20roadmap-%23686461?style=for-the-badge&logo=notion&logoColor=white&logoSize=amd">
 </a>
 
 <a href="https://stepik.org/users/776465/profile">
