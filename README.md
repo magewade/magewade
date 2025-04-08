@@ -29,6 +29,9 @@ My name is Maria and I'm learning Data Science and Machine Learning
 
 #### Recent Projects 🌱
 
+- **Kind Lenta Telegram Bot** 🤖: a Telegram bot that parses news and helps users find the most relevant articles based on their query using embedding-based semantic search.
+  [GitHub Repo](https://github.com/magewade/kind-lenta-news-telegram-bot) 💻
+
 - [**Bank Clients Acceptance Streamlit App**](https://bank-clients-answers.streamlit.app/) 💬: A Streamlit app for bank clients answers analysis.  
   [GitHub Repo](https://github.com/magewade/bank-clients-streamlit) 💻
 
