@@ -28,6 +28,8 @@ My name is Maria and I'm learning Data Science and Machine Learning
 <table border="1" cellpadding="10" cellspacing="0">
 
 #### Recent Projects 🌱
+- [**Puppies Tracking Streamlit App**](https://puppies-detection.streamlit.app) 🐶: a Streamlit app that tracks puppies with custom trained YOLO model. [GitHub Repo](https://github.com/magewade/puppies-detection) 💻
+  
 - [**Narramancer Telegram Bot**](https://t.me/narramancer_bot) 🧙‍♂️: a Telegram bot powered by a large language model (LLM) for generating adventures and running role-playing games, inspired by Dungeons & Dragons.
  [GitHub Repo](https://github.com/magewade/narramancer-llm) 💻
 
