@@ -27,7 +27,7 @@
 My name is Maria and I'm learning Data Science and Machine Learning
 <table border="1" cellpadding="10" cellspacing="0">
 
-#### Recent Projects / Недавние проекты 🌱
+#### Recent Projects 🌱
 
 - [**Narramancer Telegram Bot**](https://t.me/narramancer_bot) 🧙‍♂️ — Telegram bot with LLM for generating adventures and running role-playing games / Телеграм-бот с LLM для генерации приключений и ведения ролевых игр — *lang: RU*  
   [GitHub](https://github.com/magewade/narramancer-llm) 💻
